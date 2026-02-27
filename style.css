@@ -19,6 +19,7 @@ h1{
     border-color: rgb(4, 4, 166);
 }
 
-{
-    ;
+button:hover{
+    background-color: black;
+    color: white;
 }
