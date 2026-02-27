@@ -1,29 +1,29 @@
-p{
+p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
+h1 {
     color: aqua;
 }
 
-.secao{
+.secao {
     background-color: rgb(193, 241, 2);
 }
 
-.importante{
+.importante {
     color: red;
 }
 
-.nome{
+.nome {
 
     border-color: rgb(4, 4, 166);
 }
 
-<<<<<<< HEAD
-
-=======
-button:hover{
+button:hover {
     background-color: black;
     color: white;
 }
->>>>>>> 03f1da701b338f6866aad27edcbbf3d496753b98
+
+.container > div:first-of-type > p {
+    color: blue;
+}
