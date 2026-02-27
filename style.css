@@ -9,3 +9,8 @@ h1{
 .secao{
     background-color: rgb(193, 241, 2);
 }
+
+.importante{
+    color: red;
+}
+
