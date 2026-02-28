@@ -25,5 +25,5 @@ button:hover {
 }
 
 .container > div:first-of-type > p {
-    color: blue;
+    color: rgb(4, 4, 196);
 }
