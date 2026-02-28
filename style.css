@@ -27,3 +27,7 @@ button:hover {
 .container > div:first-of-type > p {
     color: rgb(4, 4, 196);
 }
+
+h1::first-letter{
+    font-size: 30px;
+}
